@@ -1,0 +1,340 @@
+1)+++ Линейные модели классификации и регрессии
+https://habrahabr.ru/company/ods/blog/323890/
+
+2)+++ Курс «Основы статистики» на Stepik
+https://stepik.org/course/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8-76
+
+3) Пережёвывая логистическую регрессию
+https://habr.com/ru/post/485872/
+
+4)+Логистическая регрессия
+https://youtu.be/9BoVCdedvW8
+
+5) Реализация логистической регрессии
+https://youtu.be/ruVK07YF-RU
+
+6)Виды машинных обучений. Обучение с учителем, без и с подкреплением 
+https://youtu.be/ku2oPMPht2I
+
+7)Устройство проекта в машинном обучении 
+https://youtu.be/LXc6gjip_oM
+
+8)Поиск параметров линейной регрессии через метод максимального правдоподобия 
+https://youtu.be/FlIvKzrpnXQ?t=507
+
+9)Реализация линейной регрессии 
+https://youtu.be/KJA9A1q9l7E
+
+10)Метрики для регрессии MSE, MAE, R2 
+https://youtu.be/vh2smjQyhp8
+
+11)Экспоненциальная регрессия в Python (шаг за шагом) 
+https://www.codecamp.ru/blog/exponential-regression-python/ и в ответе есть код для многомерного входа
+
+12)SVM 
+https://youtu.be/efR1C6CvhmE
+
+13)Типы данных 
+https://youtu.be/c4Cg3TUIH0E
+
+14)Линейные модели классификации и регрессии 
+https://habrahabr.ru/company/ods/blog/323890/
+
+15)Масштабирование данных (StandartScaler) 
+https://youtu.be/XsuCOfpf8Ic
+
+16)Курс «Основы статистики» на Stepik 
+https://stepik.org/course/76/promo
+
+17)Пережёвывая логистическую регрессию 
+https://habr.com/ru/post/485872/
+
+18)Метрика accuracy 
+https://youtu.be/CCH-1gJo_z0
+
+19)Логистическая регрессия 
+https://youtu.be/9BoVCdedvW8
+
+20)Реализация логистической регрессии 
+https://youtu.be/ruVK07YF-RU
+
+21)Методы оптимизации нейронных сетей 
+https://habr.com/ru/post/318970/
+
+22)Реализация линейной регрессии 
+https://www.youtube.com/watch?v=KJA9A1q9l7E
+
+23)Реализация логистической регрессии 
+https://youtu.be/ruVK07YF-RU
+
+24)Метод сопряжённых градиентов (Newton conjugate gradient method) http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%81%D0%BE%D0%BF%D1%80%D
+
+25)Методы оптимизации нейронных сетей 
+https://habr.com/ru/post/318970/
+
+26)Реализация линейной регрессии
+https://www.youtube.com/watch?v=KJA9A1q9l7E
+
+27)Реализация логистической регрессии
+https://youtu.be/ruVK07YF-RU
+
+28)Метод сопряжённых градиентов (Newton conjugate gradient method)
+http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D1%81%D0%BE%D0%BF%D1%80%D1%8F%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D1%85_%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2
+ 
+29) Методы оптимизации нейронных сетей
+https://habr.com/ru/articles/318970/
+
+
+30)Недообучение и переобучение - 
+https://youtu.be/m7P7bnLxIc4
+
+31)Метрики для классификации (Accuracy, Precision, Recall, F-score, Pr-AUC, Roc-AUC) - 
+https://youtube.com/playlist?list=PLkJJmZ1EJno6CLyvD4DHc32Fed6cPBHje
+
+32)Метрики для регрессии - 
+https://youtu.be/vh2smjQyhp8
+
+33)Регуляризация в линейной модели - 
+https://www.youtube.com/watch?v=L_o8v5A23XA
+
+34)Регуляризация - 
+https://neerc.ifmo.ru/wiki/index.php?title=%D0%A0%D0%B5%D0%B3%D1%83%D0%BB%D1%8F%D1%80%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F
+
+35)Регуляризация - 
+https://proproprogs.ru/ml/ml-l2-regulyarizator-matematicheskoe-obosnovanie-i-primer-raboty
+
+36)Регуляризация - 
+https://www.youtube.com/watch?v=RvcP3a727Fg
+
+37)Регуляризация - 
+https://youtu.be/Q81RR3yKn30
+
+38)Методы оптимизации нейронных сетей
+https://habr.com/ru/post/318970/
+
+39)Наглядные примеры переобучения модели и теоретические выкладки регуляризации
+https://habrahabr.ru/company/ods/blog/322076/
+
+40)Более сложный пример регуляризации. Разложение ошибки на смещение и разброс
+https://habr.com/ru/company/ods/blog/323890/
+
+41)Метрики для задачи классификации
+https://www.youtube.com/playlist?list=PLkJJmZ1EJno6CLyvD4DHc32Fed6cPBHje
+
+42)Оценка качества прогнозных моделей
+https://forecasting.svetunkov.ru/etextbook/forecasting_toolbox/models_quality/
+
+43)Gaining an intuitive understanding of precision, recall and area under curve
+https://towardsdatascience.com/gaining-an-intuitive-understanding-of-precision-and-recall-3b9df37804a7
+
+44)ROC curve explained
+https://towardsdatascience.com/roc-curve-explained-50acab4f7bd8
+
+45)ROC Curve and AUC From Scratch in NumPy (Visualized!)
+https://towardsdatascience.com/roc-curve-and-auc-from-scratch-in-numpy-visualized-2612bb9459ab
+
+
+46)Типы данных
+https://youtu.be/c4Cg3TUIH0E
+
+47)Метрика ROC-AUC
+https://youtu.be/v6PPG8J_Egs
+
+48)Метрика F1-score
+https://youtu.be/PeE3Fkt5W3Q
+
+49)Масштабирование данных (StandartScaler, MinMaxScaler)
+https://youtu.be/XsuCOfpf8Ic
+
+50)Работа с пропущенными значениями
+https://youtu.be/lg3H1Kd0E4o
+
+51) Titanic-Dataset (train.csv)
+https://www.kaggle.com/datasets/hesh97/titanicdataset-traincsv
+
+52) Мастерство Data Science: Автоматизированное конструирование признаков на Python
+https://habr.com/ru/company/skillfactory/blog/510420/
+
+
+53)Построение и отбор признаков
+https://habr.com/ru/company/ods/blog/325422/
+
+
+54) Документация sklearn по деревьям 
+https://scikit-learn.org/stable/modules/tree.html
+
+55) Классификация, дерево решений и метод ближайших соседей 
+https://habr.com/ru/company/ods/blog/322534/
+
+56) Лекция Евгения Соколова на ФКН ВШЭ по деревьям 
+https://github.com/esokolov/ml-course-hse/blob/master/2016-fall/seminars/sem07-trees.ipynb
+
+https://github.com/esokolov/ml-course-hse/blob/master/2016-fall/lecture-notes/lecture07-trees.pdf
+
+57) Видео лекции Воронцова К.В.: 
+https://www.youtube.com/watch?v=SFh4HRLX3YY
+
+https://www.hse.ru/mirror/pubs/share/215285956
+
+58)Дерево решений для задачи регресии 
+https://youtu.be/0mMeaC3gjNI
+
+
+59)Дерево решений для задачи классификации 
+https://youtu.be/j8L07nuns2Y
+
+
+60)Критерии останова дерева решений 
+https://youtu.be/aWEdaXAZ01M
+
+
+61) Ансамбли в машинном обучении - https://dyakonov.org/2019/04/19/%D0%B0%D0%BD%D1%81%D0%B0%D0%BC%D0%B1%D0%BB%D0%B8-%D0%B2-%D0%BC%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%BC-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B8/
+
+
+62) Ансамблевые методы: бэггинг, бустинг и стекинг 
+https://neurohive.io/ru/osnovy-data-science/ansamblevye-metody-begging-busting-i-steking/
+
+
+63) Бэггинг и бутстрап + композиции в целом  
+https://habr.com/ru/company/ods/blog/324402/
+
+
+64) Бэггинг и случайный лес 
+https://youtu.be/rawnIo_XtYY
+
+
+65) Бустинг
+https://medium.com/mlreview/gradient-boosting-from-scratch-1e317ae4587d
+
+
+66) CatBoost против Light GBM против XGBoost 
+https://machinelearningmastery.ru/catboost-vs-light-gbm-vs-xgboost-5f93620723db/
+
+
+66) Boosting and Bagging: How To Develop A Robust Machine Learning Algorithm
+https://hackernoon.com/how-to-develop-a-robust-algorithm-c38e08f32201
+
+
+67)LDA простыми словами
+https://youtu.be/azXCzI57Yfc
+
+
+68) PCA простыми словами
+https://youtu.be/FgakZw6K1QQ
+
+
+69) SHAP - с кодом и визуализациями 
+https://towardsdatascience.com/using-shap-values-to-explain-how-your-machine-learning-model-works-732b3f40e137
+
+70) Практическое применение NCA 
+https://www.kaggle.com/code/burakkahveci/comparison-of-knn-pca-nca-for-prediction/notebook
+
+71) SHAP и LIME 
+https://habr.com/ru/company/ods/blog/599573/
+
+72) ELI5, PDP, LIME 
+https://webiomed.ru/blog/interpretatsiia-rezultatov-mashinnogo-obucheniia/
+
+73) Корреляция
+http://ru.wikipedia.org/wiki/Корреляция
+
+74) Методы главных компонент
+https://cmi.to/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D1%8B%D1%85-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82/
+
+
+75) Линейный дискриминантный анализ
+https://cmi.to/%D0%BC%D0%B5%D1%82%D0%BE%D0%B4%D1%8B/%D0%BB%D0%B8%D0%BD%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9-%D0%B4%D0%B8%D1%81%D0%BA%D1%80%D0%B8%D0%BC%D0%B8%D0%BD%D0%B0%D0%BD%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7/
+
+
+76) Методы кластеризации
+http://www.machinelearning.ru/wiki/images/archive/2/28/20150427184336!Voron-ML-Clustering-slides.pdf
+
+
+77)sklearn, сравнение кластеризаторов 
+http://scikit-learn.org/stable/modules/clustering.html
+
+
+78)sklearn, algo cheatsheet 
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+
+
+79) sklearn, comparison algo’s 
+http://scikit-learn.org/stable/auto_examples/cluster/plot_mini_batch_kmeans.html
+
+
+80) sklearn, clustering example 
+http://scikit-learn.org/stable/auto_examples/cluster/plot_agglomerative_clustering_metrics.html
+
+
+81)sklearn full example info 
+http://scikit-learn.org/stable/auto_examples/cluster/plot_ward_structured_vs_unstructured.html
+
+82)Affinity Propagation Algorithm Explained
+https://towardsdatascience.com/unsupervised-machine-learning-affinity-propagation-algorithm-explained-d1fef85f22c8 
+
+
+83)sklearn, metrics guide 
+http://scikit-learn.org/stable/modules/clustering.html
+
+
+84)sklearn, metrics descriptions
+http://scikit-learn.org/stable/modules/classes.html
+ 
+
+
+85) Метрики sklearn для задач кластеризации 
+http://scikit-learn.org/stable/modules/classes.html
+
+
+86)Open Data Science, habrahabr: Обучение учителя: PCA и кластеризация 
+https://habrahabr.ru/company/ods/blog/325654/
+
+
+87)Книжка 
+https://cs7053.userapi.com/c812420/u4462765/docs/dbe264335e79/Introduction_to_ML_with_Python.pdf?extra=8V6L6yO8guwpde_XiD-plCoabKpDglwlaUl6TPHwVJ6bd-WBp5biUDb8PvXT8FsNoQcnMzcuYRd6qWKowntRuZ5fy3C4TkbgooCom26ARKvwTztOtZQvqQ&dl=1
+
+
+88) 10 Clustering Algorithms With Python by Jason Brownlee on April 6, 2020 in Python Machine Learning
+https://machinelearningmastery.com/clustering-algorithms-with-python/
+
+89)Как улучшить производительность глубокого обучения
+https://www.machinelearningmastery.ru/improve-deep-learning-performance/
+
+90) Гиперпараметры: как перестать беспокоиться и начать их оптимизировать
+https://habr.com/ru/companies/antiplagiat/articles/528384/
+
+
+
+91)Байесовский_классификатор
+http://www.machinelearning.ru/wiki/index.php?title=Байесовский_классификатор
+
+92)Наивный Байес, или о том, как математика позволяет фильтровать спам
+https://habr.com/ru/post/415963/
+
+
+93)SSIM
+https://ru.wikipedia.org/wiki/SSIM
+
+
+94)критика SSIM
+https://docplayer.com/205016011-Indeks-ssim-ne-yavlyaetsya-metrikoy-i-ploho-ocenivaet-shodstvo-izobrazheniy.html
+
+
+95)skikit-image
+https://scikit-image.org/docs/dev/auto_examples/transform/plot_ssim.html
+
+
+96)
+https://github.com/sharmaroshan/MNIST-Using-K-means/blob/master/KMeans%20Clustering%20for%20Imagery%20Analysis%20(Jupyter%20Notebook).ipynb
+
+97)
+https://www.kaggle.com/code/thebrownviking20/clustering-images-w-neural-network-bayesian-opt
+
+
+98)
+https://towardsdatascience.com/a-step-by-step-guide-for-clustering-images-4b45f9906128
+
+99)
+
+
+100)
