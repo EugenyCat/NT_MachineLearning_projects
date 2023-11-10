@@ -1,33 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b006b16f-c6e2-4a74-b054-7d02258b19bd" name="Changes" comment="17.10.23&#10;Bayesian Optimisation (hyperopt, optuna)">
-      <change beforePath="$PROJECT_DIR$/01_LogisticRegression_SVM.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_Loss_Optimization.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_scores_curves.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_data_quality.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_eda_features.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_decision_tree.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_ensemblies.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/08_emissions_deleting.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/09_feature_selection.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_1_clusters.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_2_clusters.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_1_improving_model.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_2_impoving_model.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_SummuryWork.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Articels.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/adult.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/athletes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/clusters.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/flag.names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/flag_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/glass.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/heart.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/palette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/datasets_features/titanic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/general_clues.ipynb" beforeDir="false" />
+    <list default="true" id="b006b16f-c6e2-4a74-b054-7d02258b19bd" name="Changes" comment="09.11.23&#10;conv NN">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,15 +32,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/e.radionov/Documents/com.petrovich.etl&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/e.radionov/Documents/TeaPartyGirls/NT_MachineLearning_projects",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="NT_MachineLearning_projects" />
@@ -136,6 +111,7 @@
       <workItem from="1699160529474" duration="600000" />
       <workItem from="1699536932456" duration="13000" />
       <workItem from="1699540922276" duration="632000" />
+      <workItem from="1699555895923" duration="804000" />
     </task>
     <task id="LOCAL-00001" summary="24.08.23&#10;add task Logistic Regression and SVM">
       <created>1692879735605</created>
@@ -256,7 +232,21 @@
       <option name="project" value="LOCAL" />
       <updated>1697536438727</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="09.11.23&#10;conv NN">
+      <created>1699555967767</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1699555967767</updated>
+    </task>
+    <task id="LOCAL-00019" summary="09.11.23&#10;conv NN">
+      <created>1699556101541</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699556101541</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +277,7 @@
     <MESSAGE value="05.10.23&#10;Improving model" />
     <MESSAGE value="15.10.23&#10;Classification. Flag.csv dataset. Summary work." />
     <MESSAGE value="17.10.23&#10;Bayesian Optimisation (hyperopt, optuna)" />
-    <option name="LAST_COMMIT_MESSAGE" value="17.10.23&#10;Bayesian Optimisation (hyperopt, optuna)" />
+    <MESSAGE value="09.11.23&#10;conv NN" />
+    <option name="LAST_COMMIT_MESSAGE" value="09.11.23&#10;conv NN" />
   </component>
 </project>
