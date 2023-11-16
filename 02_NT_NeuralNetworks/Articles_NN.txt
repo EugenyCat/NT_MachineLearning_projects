@@ -1,0 +1,35 @@
+https://jalammar.github.io/illustrated-transformer/
+
+
+https://twitter.com/hippopedoid/status/1641432291149848576
+
+
+https://www.youtube.com/watch?v=iDulhoQ2pro
+
+
+https://cvpr2023-tutorial-diffusion-models.github.io/
+
+
+Ссылки предоставленные Иваном:
+https://hmkcode.com/ai/backpropagation-step-by-step/
+https://paperswithcode.com/
+https://emiliendupont.github.io/2018/01/24/optimization-visualization/
+https://albumentations.ai/
+https://colab.research.google.com/drive/1u5WYahRi1a5tVLMNRJWPBrY0WufM8Pxh?usp=sharing
+
+
+
+Андрей Карпатый (Tesla, OpenAI) детально разбирает backpropagation:
+https://youtu.be/VMj-3S1tku0
+
+
+http://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.72732&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false
+
+
+https://cs231n.github.io/optimization-2/
+
+
+http://karpathy.github.io/2019/04/25/recipe/
+
+
+http://cs231n.github.io/neural-networks-1/#nn
